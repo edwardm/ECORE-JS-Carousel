@@ -1,16 +1,16 @@
 {
-	"name": "project-name",
+	"name": "ECORE-JS-Carousel",
 	"version": "0.0.1",
-	"description": "A description for your project.",
+	"description": "This yet another javascript carousel plugin.",
 	"main": "./dist/your-main-js-file.js",
 	"author": {
-		"name": "YOUR NAME",
-		"url": "http://link-to-your-website.com"
+		"name": "Eddward Margallo",
+		"url": "https://www.edwardmargallo.com/"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "http://link-to-your-git-repo.com"
+		"url": "https://github.com/edwardm/ECORE-JS-Carousel"
 	},
 	"boilerplate": {
 		"version": "2.2.6",
