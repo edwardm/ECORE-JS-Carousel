@@ -2,7 +2,8 @@
  * @section Base Styles
  */
 
-/* Edward Margallo 9/3/2019 */
+/* Edward Margallo 
+Project stared on 9/3/2019 */
 
 //colors
 $color-white: #fff;
@@ -33,11 +34,15 @@ $arrow2: "data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csv
 
 body {
 	padding: 1rem;
-	font-family: 'Varta',
-		sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
-	color: $color-white;
-	background-color: $color-charcoal-grey;
+	background-color: $color-white;
+}
+
+h1 {
+	font-size: 1.1rem;
+	font-weight: normal;
+	letter-spacing: 0.05rem;
 }
 
 .disabled {
@@ -72,10 +77,11 @@ body {
 .gallery-controls {
 	z-index: 1;
 	position: absolute;
+	right: 0;
 	bottom: 0;
+	left: 0;
 	display: block;
 	text-align: center;
-	width: 300px;
 	display: inline;
 
 	>.gallery-pager-item {
@@ -118,6 +124,10 @@ body {
 		opacity: 1;
 	}
 }
+
+/* to-do don't rely on absolute positioning 
+in css to slide  let's make it detect width 
+automatically and apply inline css via js */
 
 .gallery-container[data-index="0"] {
 	left: 0;
