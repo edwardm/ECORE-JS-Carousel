@@ -1,5 +1,4 @@
 /* jshint esversion: 6 */
-/* carousel js here */
 
 /* to-do - need to refactor */
 
