@@ -103,7 +103,7 @@ h1 {
 }
 
 /* line 86, src/sass/components/carousel.scss */
-.gallery-controls .gallery-pager-item {
+.gallery-controls > .gallery-pager-item {
   cursor: pointer;
   display: inline-block;
   width: 10px;
@@ -115,12 +115,12 @@ h1 {
 }
 
 /* line 96, src/sass/components/carousel.scss */
-.gallery-controls .gallery-pager-item:hover {
+.gallery-controls > .gallery-pager-item:hover {
   background: #ddd;
 }
 
 /* line 100, src/sass/components/carousel.scss */
-.gallery-controls .gallery-pager-item.active {
+.gallery-controls > .gallery-pager-item.active {
   border: 1px solid #666;
   background: #666;
 }

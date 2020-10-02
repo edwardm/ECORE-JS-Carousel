@@ -4,7 +4,7 @@
 	"description": "This is yet another javascript carousel plugin.",
 	"main": "./dist/your-main-js-file.js",
 	"author": {
-		"name": "Eddward Margallo",
+		"name": "Edward Margallo",
 		"url": "https://www.edwardmargallo.com/"
 	},
 	"license": "MIT",
