@@ -6,7 +6,8 @@ ECORE JS Carousel. This is yet another javascript carousel plugin.
 - Pagination arrows grey out when reaching the end of the gallery list
 
 ## Planned Updates
-- Layout customizations (fixed, full width and full viewport)
+- Layout customizations - fixed, full width and full viewport
+- UI customizations - pagination and arrow placement options
 - Prev/Next arrows loop back around at end-of gallery
 
 ## License
