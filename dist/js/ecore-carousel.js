@@ -1,4 +1,4 @@
-/*! ECORE-JS-Carousel v0.0.1 | (c) 2020 Edward Margallo | MIT License | https://github.com/edwardm/ECORE-JS-Carousel */
+/*! ECORE-JS-Carousel v0.0.1 | (c) 2021 Edward Margallo | MIT License | https://github.com/edwardm/ECORE-JS-Carousel */
 /* jshint esversion: 6 */
 
 /* to-do - need to refactor */
